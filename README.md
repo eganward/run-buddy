@@ -12,3 +12,5 @@ https://lernantino.github.ioi/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ward Egan
+
+### ©️2019 Run Buddy, Inc
